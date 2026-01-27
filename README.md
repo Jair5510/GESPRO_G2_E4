@@ -1,9 +1,11 @@
 # SCRUMBAN
-- Francisco
-- Jair
-- Raúl
-- Antonio
-- Magaña
+
+## Roles
+- Francisco: Escritura y documentación (Readme, wiki)
+- Jair: Lider de Proyecto
+- Raúl: Programación
+- Antonio: Apoyo de tareas
+- Magaña: Presentación
 
 ## 📌 Descripción del Proyecto
 
@@ -18,3 +20,5 @@ Este proyecto tiene como objetivo aplicar las herramientas del método Scrum en 
 - Lenguaje: Python
 - Frameworks o librerías (si aplica)
 - Herramientas adicionales (Git, GitHub, Visual Studio)
+
+
