@@ -1,4 +1,9 @@
-# Nombre del Proyecto
+# scrumban
+Francisco 
+Jair
+Raul 
+Antonio
+Magaña
 
 Breve descripción del proyecto. Explica en 2–3 líneas qué hace, para qué sirve y en qué contexto se desarrolló.
 
