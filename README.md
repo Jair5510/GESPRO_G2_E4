@@ -1,27 +1,16 @@
-# GESPRO_G2_E4
-Repositorio del equipo 4
-# Project Name
+# Nombre del Proyecto
 
-Breve descripción del proyecto. Explica en una o dos líneas qué hace el sistema y cuál es su propósito principal.
+Breve descripción del proyecto. Explica en 2–3 líneas qué hace, para qué sirve y en qué contexto se desarrolló.
 
-## Descripción
-Este proyecto tiene como objetivo desarrollar un sistema que permita [explicar el problema que resuelve].  
-Fue desarrollado como parte de [materia, curso, investigación o proyecto personal].
+## 📌 Descripción
+Este proyecto fue desarrollado como parte de un trabajo académico. El objetivo principal es describir brevemente qué problema resuelve o qué funcionalidad ofrece.
 
-## Tecnologías utilizadas
-- Lenguaje de programación: C++ / Python / MATLAB
-- Plataforma: Arduino / Raspberry Pi / PC
-- Librerías principales:
-  - Librería 1
-  - Librería 2
+## 🛠️ Tecnologías utilizadas
+- Lenguaje: Python / JavaScript / C++ (ajusta según tu proyecto)
+- Frameworks o librerías (si aplica)
+- Herramientas adicionales (Git, GitHub, etc.)
 
-## Requisitos
-Antes de ejecutar el proyecto, asegúrate de contar con:
-- Software X versión Y
-- Hardware necesario (si aplica)
-- Dependencias instaladas
-
-## Instalación
+## 🚀 Instalación y uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-repositorio.git
+   git clone https://github.com/tu-usuario/nombre-del-repo.git
